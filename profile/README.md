@@ -1,5 +1,5 @@
 
-This is the official page of **catanull**.
+This is the official page of **Lyniti**.
 
 ## Our Projects:
 - [evilkitty](https://evilkitty.me)
